@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO04_Order summary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef870954-aa73-4349-b1c3-2032451a1cf5</testCaseGuid>
+   <variable>
+      <defaultValue>'30,000'</defaultValue>
+      <description></description>
+      <id>d51726ac-38a0-4587-8f6e-9ff146d988b8</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>
