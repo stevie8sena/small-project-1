@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>CO06_Payment using invalid</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>cdd0f6ea-6551-4b26-82de-3ec7d40e5e0c</testCaseGuid>
-</TestCaseEntity>
