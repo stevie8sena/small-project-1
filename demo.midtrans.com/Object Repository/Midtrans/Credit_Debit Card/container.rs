@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>container</name>
+   <tag></tag>
+   <elementGuidId>faab8edc-1854-429e-8518-6a485f68e105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='application']/div[3]/div/div/div/iframe[count(. | //*[@id = 'acsMain' and @framepath = concat('iframe[id=' , &quot;'&quot; , 'snap-midtrans' , &quot;'&quot; , ']')]) = count(//*[@id = 'acsMain' and @framepath = concat('iframe[id=' , &quot;'&quot; , 'snap-midtrans' , &quot;'&quot; , ']')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>acsMain</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div[3]/div/div/div/iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>framepath</name>
+      <type>Main</type>
+      <value>iframe[id='snap-midtrans']</value>
+   </webElementProperties>
+</WebElementEntity>
